@@ -1,8 +1,8 @@
 {
+  "homepage": "https://jberteloot.github.io/react-validation",
   "name": "react-validation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jberteloot.github.io/react-validation",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
